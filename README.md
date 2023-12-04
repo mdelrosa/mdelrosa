@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Mason (he/him)! I am a PhD in applied machine learning. I'm currently looking for roles as a Data Scientist or a Machine Learning Engineer/Researcher.
+
+Most of my GitHub activity for 2022-23 is visible at [@masondelro](https://github.com/masondelro).
+
+### 🔭 I’m currently working on ...
+
+- A set of [Python tutorials](https://github.com/mdelrosa/ml-explainability-fairness) on how to implement ML explainability/fairness methods from scratch.
+
+### 👀 Stuff I've worked on
+
+- **Added ranking/recommendation model support to the TruEra Diagnostics product.** See the Colab notebook I wrote for this functionality here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/truera/truera-examples/blob/release/prod/starter-examples/starter-ranking.ipynb)
+
 <!--
 **mdelrosa/mdelrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
