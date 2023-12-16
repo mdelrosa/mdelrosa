@@ -7,6 +7,7 @@ Most of my GitHub activity for 2022-23 is visible at [@masondelro](https://githu
 ### 🔭 I’m currently working on ...
 
 - A set of [Python tutorials](https://github.com/mdelrosa/ml-explainability-fairness) on how to implement ML explainability/fairness methods from scratch.
+- A portfolio of [data science projects](https://github.com/mdelrosa/data-science-portfolio) to refresh my data cleaning/ML skills.
 
 ### 👀 Stuff I've worked on
 
