@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mason (he/him)! I am a PhD in applied machine learning. I'm currently looking for roles as a Data Scientist or a Machine Learning Engineer/Researcher.
+I'm Mason (he/him)! I am a PhD in applied machine learning working as a Founding Software Engineer at [Okareo](https://okareo.com/).
 
 Most of my GitHub activity for 2022-23 is visible at [@masondelro](https://github.com/masondelro).
 
